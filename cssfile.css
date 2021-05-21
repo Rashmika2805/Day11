@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,500,700&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Montserrat", sans-serif;
+  }
+  
+  
+  
+.resume-left{
+  color:whitesmoke;
+  text-align: center;
+  width: 450px;
+  background-color: #0bb5f4;
+}
+
+.resume-right{
+  background-color:whitesmoke;
+  padding-left: 30px;
+  
+}
+.title{
+  font-size: 20px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.lni-instagram-original:before {
+  content: "\ea8c";
+}
+.container {
+  box-shadow: 0px 0px 1px 1px black;
+  display: flex;
+    flex-direction: row;
+    width: 1300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    
+
+}
+img{
+  width: 150px;
+  height: 150px;
+  margin-top: 12px;
+}
+.hobby ul li{
+  margin-right: 70px;
+  list-style: none;
+}
+.heading{
+  font-size: 20px;
+}
+.bold{
+  font-size: 25px;
+  font-family:sans-serif;
+}
+
